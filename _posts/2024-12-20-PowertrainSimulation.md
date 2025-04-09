@@ -9,14 +9,13 @@ splash: /assets/CVT%20shift%20ratio.jpg
 
 *August-December 2024*
 
-[Github Repository](https://github.com/shua5115/Terps-Racing-Baja-Simulator)
-
-[Project Presentation](/assets/CVT%20Simulation%20-%20CDR.pdf)
-
 ![](/assets/CVT%20shift%20ratio.jpg)
 
 *CVT Ratio vs. Speed and Torque*
 
+[Github Repository](https://github.com/shua5115/Terps-Racing-Baja-Simulator)
+
+[Project Presentation](/assets/CVT%20Simulation%20-%20CDR.pdf)
 
 ![](/assets/CVT%20Sim%20Comparison.png)
 
