@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 ---
 
 # Portfolio - Yehoshua Halle
