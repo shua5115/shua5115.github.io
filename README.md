@@ -4,7 +4,7 @@ layout: default
 
 # Portfolio - Yehoshua Halle
 
-<img src=./assets/headshot.jpg height=200>
+![](/assets/headshot.jpg)
 
 I am currently a student in the Master of Robotics Systems Development (MRSD) program at Carnegie Mellon University.
 
@@ -21,6 +21,7 @@ A hobby of mine for many years has been programming, especially for video game d
     <img src="{{ post.splash }}" height=200>
     {% endif %}
     <figcaption>{{ post.title }}</figcaption>
+    </hr>
   </a>
 </p>
 {% endfor %}
