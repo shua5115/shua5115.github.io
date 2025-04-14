@@ -5,8 +5,6 @@ tags: VME UMD
 splash: /assets/AutoFeeder%20Render.png
 ---
 
-# Assistive Feeding Device - Volunteers for Medical Engineering (VME)
-
 *Fall 2023 and 2024*
 
 ![](/assets/AutoFeeder%20Render.png)

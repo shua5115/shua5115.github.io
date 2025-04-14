@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# Portfolio - Yehoshua Halle
+# Portfolio
 
 ![](/assets/headshot.jpg)
 

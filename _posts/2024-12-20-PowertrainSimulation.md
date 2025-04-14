@@ -5,8 +5,6 @@ tags: TerpsRacing UMD
 splash: /assets/CVT%20shift%20ratio.jpg
 ---
 
-# Powertrain Simulation
-
 *August-December 2024*
 
 ![](/assets/CVT%20shift%20ratio.jpg)

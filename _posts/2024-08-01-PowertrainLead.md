@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Powertrain Lead
+title: Powertrain Subteam Leader
 tags: TerpsRacing UMD
 splash: /assets/Powertrain%20Williamsport.jpg
 ---
-
-# Powertrain Subteam Leader
 
 *August 2023 - August 2024*
 

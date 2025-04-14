@@ -5,8 +5,6 @@ tags: TerpsRacing UMD
 splash: /assets/Front%20Shaft.jpg
 ---
 
-# Front Shaft Assembly
-
 *Fall 2023 - Spring 2024*
 
 ![](/assets/Front%20Shaft.jpg)

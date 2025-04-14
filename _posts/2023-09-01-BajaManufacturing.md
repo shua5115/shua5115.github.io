@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Manufacturing for Terps Racing Baja
+title: Terps Racing Baja Manufacturing
 tags: TerpsRacing UMD
 splash: /assets/Clevis%20CNC.jpg
 ---
-
-# Terps Racing Baja Manufacturing
 
 *2022 - 2024*
 
