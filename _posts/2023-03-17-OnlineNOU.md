@@ -5,13 +5,13 @@ tags: TIC
 splash: /assets/NOU%20icon.png
 ---
 
-*Summer 2021 - Winter 2023*
+*Summer 2022 - Winter 2023*
 
 ![](/assets/NOU%20icon.png)
 
 [Github Page](https://github.com/shua5115/OnlineNOU)
 
-OnlineNOU is a game I started while working at TIC as a programming counselor in 2021, and finished over winter break in 2023.
+OnlineNOU is a game I started while working at TIC as a programming counselor in 2022, and finished over winter break in 2023.
 It is an UNO clone, featuring the ability to play with custom rulesets.
 This game was my foray into networked games. It includes features like:
 - Self-hosted servers over LAN
