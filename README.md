@@ -24,5 +24,5 @@ A hobby of mine for many years has been programming, especially for video game d
     <figcaption>{{ post.title }}</figcaption>
   </a>
 </p>
-</hr>
+<hr>
 {% endfor %}
