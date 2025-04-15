@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Powertrain Subteam Leader
+title: Powertrain Subteam Leader - Terps Racing Baja
 tags: TerpsRacing UMD
 splash: /assets/Powertrain%20Williamsport.jpg
 ---

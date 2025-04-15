@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terps Racing Baja Manufacturing
+title: Manufacturing - Terps Racing Baja
 tags: TerpsRacing UMD
 splash: /assets/Clevis%20CNC.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Powertrain Simulation
+title: Powertrain Simulation - Terps Racing Baja
 tags: TerpsRacing UMD
 splash: /assets/CVT%20shift%20ratio.jpg
 ---

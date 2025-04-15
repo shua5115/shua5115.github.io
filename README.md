@@ -19,7 +19,7 @@ A hobby of mine for many years has been programming, especially for video game d
 <p>
   <a href="{{ post.url }}">
     {% if post.splash %}
-    <img src="{{ post.splash }}" height=200>
+    <img src="{{ post.splash }}" height=200 style="object-fit:contain;">
     {% endif %}
     <figcaption>{{ post.title }}</figcaption>
   </a>
