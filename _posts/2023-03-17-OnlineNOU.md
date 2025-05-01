@@ -12,7 +12,7 @@ splash: /assets/NOU%20icon.png
 [Github Page](https://github.com/shua5115/OnlineNOU)
 
 OnlineNOU is a game I started while working at TIC as a programming counselor in 2022, and finished over winter break in 2023.
-It is an UNO clone, featuring the ability to play with custom rulesets.
+It is inspired by UNO, featuring the ability to play with custom rulesets.
 This game was my foray into networked games. It includes features like:
 - Self-hosted servers over LAN
 - Player moderation (kicking/banning)
