@@ -7,9 +7,12 @@ permalink: /
 
 ![](/assets/headshot.jpg)
 
-## [Resume](/resume.pdf)
+# [Resume](/resume.pdf)
+
+<hr>
 
 ## Experience
+<hr>
 
 {% for post in site.posts %}
 <p>
