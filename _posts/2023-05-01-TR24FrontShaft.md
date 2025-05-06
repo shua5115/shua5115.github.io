@@ -3,6 +3,7 @@ layout: post
 title: Front Shaft Assembly - Terps Racing Baja
 tags: TerpsRacing UMD
 splash: /assets/Front%20Shaft.jpg
+summary: My design project during the 2024 Baja SAE competition season.
 ---
 
 *Fall 2023 - Spring 2024*
@@ -31,3 +32,4 @@ I analyzed the design with hand calculations and FEA, considering several failur
 - Stress concentration at keyways
 - Sprag clutch torque limit
 - Bearing radial force limits
+The assembly did not fail.

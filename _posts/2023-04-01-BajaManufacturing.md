@@ -3,6 +3,7 @@ layout: post
 title: Manufacturing - Terps Racing Baja
 tags: TerpsRacing UMD
 splash: /assets/Clevis%20CNC.jpg
+summary: Showcasing parts I manufactured for the team.
 ---
 
 *2022 - 2024*

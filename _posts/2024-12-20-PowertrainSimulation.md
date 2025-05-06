@@ -3,6 +3,7 @@ layout: post
 title: Powertrain Simulation - Terps Racing Baja
 tags: TerpsRacing UMD
 splash: /assets/CVT%20shift%20ratio.jpg
+summary: A vehicle simulator written in C++ for optimizing powertrain performance.
 ---
 
 *August-December 2024*

@@ -3,6 +3,7 @@ layout: post
 title: Assistive Feeding Device - Volunteers for Medical Engineering (VME)
 tags: VME UMD
 splash: /assets/AutoFeeder%20Render.png
+summary: A robot which helps people eat meals more independently.
 ---
 
 *Fall 2023 and 2024*
