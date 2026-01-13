@@ -5,7 +5,7 @@ permalink: /
 
 # Portfolio
 
-![](/assets/headshot.jpg)
+<img src="/assets/headshot.jpg" height=200 style="object-fit:contain;">
 
 # [Resume](/resume.pdf)
 
