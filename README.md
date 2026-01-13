@@ -5,11 +5,16 @@ permalink: /
 
 # Portfolio
 
-<img src="/assets/headshot.jpg" height=200 style="object-fit:contain;">
+<img src="/assets/headshot.jpg" height=150 style="object-fit:contain;">
 
 # [Resume](/resume.pdf)
 
 <hr>
+
+I am currently a student in the Master of Robotics Systems Development (MRSD) program at Carnegie Mellon University.
+In this program I learn multidisciplinary, technical subjects across the field of robotics and
+practice skills from systems engineering, business, and project management.
+My capstone project is to develop a robot for general lab automation in collaboration with the CMU Cloud Lab.
 
 ## Experience
 <hr>
@@ -28,8 +33,6 @@ permalink: /
 </p>
 <hr>
 {% endfor %}
-
-I am currently a student in the Master of Robotics Systems Development (MRSD) program at Carnegie Mellon University.
 
 From 2022-2024, I was a member of Terps Racing Baja, competing to make the fastest and most durable ATV in the national Baja SAE collegiate competition. I have applied CAD, hand-written simulations, and physical testing to design high-quality parts and assemblies for the vehicle. From 2023-2024, I held the position of  Powertrain Subteam Leader. I supervised the design and implementation of the powertrain subsystem by planning, budgeting, and scheduling individual student projects. Under my leadership, we improved the car's acceleration time from 6s to 4.4s, with an overall placement in the top 25 of 100 teams during the 2024 competition season.
 
