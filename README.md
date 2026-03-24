@@ -14,12 +14,31 @@ permalink: /
 I am currently a student in the Master of Robotics Systems Development (MRSD) program at Carnegie Mellon University.
 In this program I learn multidisciplinary, technical subjects across the field of robotics and
 practice skills from systems engineering, business, and project management.
-My capstone project is to develop a robot for general lab automation in collaboration with the CMU Cloud Lab.
+My capstone project is to develop a robot for chem/bio lab automation in collaboration with the CMU Cloud Lab.
 
-## Experience
+## Technical Experience
 <hr>
 
-{% for post in site.posts %}
+{% for post in site.categories.technical %}
+<p>
+  <a href="{{ post.url }}">
+    {% if post.splash %}
+    <img src="{{ post.splash }}" height=200 style="object-fit:contain;">
+    {% endif %}
+    <figcaption>{{ post.title }}</figcaption>
+  </a><br>
+  {% if post.summary %}
+  {{post.summary}}
+  {% endif %}
+</p>
+<hr>
+{% endfor %}
+
+## Personal Projects
+
+<hr>
+
+{% for post in site.categories.personal %}
 <p>
   <a href="{{ post.url }}">
     {% if post.splash %}
