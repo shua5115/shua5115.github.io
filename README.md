@@ -11,6 +11,10 @@ permalink: /
 
 <hr>
 
+I am looking for opportunities to automate manufacturing and transportation.
+
+<hr>
+
 I am currently a student in the Master of Robotics Systems Development (MRSD) program at Carnegie Mellon University.
 In this program I learn multidisciplinary, technical subjects across the field of robotics and
 practice skills from systems engineering, business, and project management.
